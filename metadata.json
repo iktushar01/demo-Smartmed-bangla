@@ -1,0 +1,8 @@
+{
+  "name": "SmartMed Bangla",
+  "description": "AI-powered digital healthcare assistant in Bangla for elderly patients, families, and medicine management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
